@@ -1,5 +1,5 @@
 # ROT13-convertor
-a simple web page that encrypt you text into ROT13 and can decrypt it
+a simple web page that encrypt your text into ROT13 and can decrypt it
 
 # Pre-requisites
 python version: 3
