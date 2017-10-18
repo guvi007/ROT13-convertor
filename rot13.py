@@ -1,3 +1,11 @@
+'''
+requirements 
+Python version - 3
+flask
+
+Rot13 converter
+'''
+
 from string import ascii_lowercase as low
 from string import ascii_uppercase as upp
 from flask import Flask,request,render_template
